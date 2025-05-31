@@ -1,4 +1,3 @@
-
 # Perfil del Puesto - Desarrollador Java en Inetum
 
 ## Requisitos Técnicos y Conocimientos Clave
